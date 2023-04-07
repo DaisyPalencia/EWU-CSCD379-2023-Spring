@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "vitest": "^0.29.8"
+  },
+  "dependencies": {
+    "vue": "^3.2.47",
+    "vue-router": "^4.1.6"
+  }
+}
