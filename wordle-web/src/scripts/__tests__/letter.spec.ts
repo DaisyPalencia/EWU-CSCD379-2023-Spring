@@ -1,6 +1,6 @@
 import { describe, it, expect } from 'vitest'
 import { Letter, LetterStatus } from '@/scripts/letter'
-//p
+//parce 
 describe('Letter', () => {
   it('Gets Correct Color', () => {
     const letter = new Letter('a')
