@@ -20,7 +20,7 @@ jobs:
         with:
           node-version: 18
       - name: Install Packages
-        run: cpm ci
+        run: npm ci
         working-directory: ./wordle-web
       - name: Lint Code
         working-directory: ./wordle-web
