@@ -1,5 +1,6 @@
 // Class that represents a letter in the wordle word and status
 // of the letter in the wordle word
+//parce la
 export enum LetterStatus {
   NotGuessed = 0,
   Correct,
